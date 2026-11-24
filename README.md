@@ -4,7 +4,7 @@ Collar inteligente para perros con tecnología LoRa y aplicación móvil que
 detecta cambios de comportamiento y envía alertas preventivas al tutor.
 
 Proyecto del Taller de Diseño en Ingeniería (10148), Facultad de Ingeniería,
-Universidad de Santiago de Chile. Grupo 8.
+Universidad de Santiago de Chile.
 
 ## Estado del proyecto
 
