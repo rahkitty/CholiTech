@@ -24,6 +24,8 @@ conexión LoRa todavía no están implementados.
 
 Requisitos: Node.js y pnpm.
 
+    git clone https://github.com/rahkitty/CholiTech.git
+    cd CholiTech
     pnpm install
     pnpm dev
 
